@@ -1,6 +1,3 @@
-y## Put comments here that give an overall description of what your
-## functions do
-
 ## makeCacheMatrix accept a Maxtrix as argument and provide the following functions:
 ## set() - store the matrix
 ## get() - retrieve the matrix
